@@ -84,7 +84,7 @@ Under Varibles taster dere fra 1 til 5 hvilken område dere tilhører
 ![image](https://github.com/techbliss/HC3_Electric_price_NO/assets/3592375/44de524c-2ce4-442f-8d23-8f91d8fb51a3)
 <br>
 <br>
-## Block scene from higest and lowest hour of the day.
+## Block scene.
 <br>
 
 ![image](https://github.com/techbliss/HC3_Electric_price_NO/assets/3592375/f61876ee-0ae9-4183-aea3-1f52390feb0f)
