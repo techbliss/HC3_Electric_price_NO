@@ -26,12 +26,16 @@ Under Settings-->Generel-->Varibles
 
 Der lager appen 3 global varibles som kan brukes i scener
 
-
-<h3>HighPrice=Hvilken time prisen er høyest</h3>
-
-<h3>LowestPriceOfDay=Hvilken time prisen er lavest</h3>
-
-<h3>Strompris= Strømprisen nu</h3>
+<br>
+HighPrice=Hvilken time prisen er høyest
+<br>
+<br>
+LowestPriceOfDay=Hvilken time prisen er lavest
+<br>
+<br>
+Strompris= Strømprisen nu
+<br>
+<br>
 
 ![image](https://github.com/techbliss/HC3_Electric_price_NO/assets/3592375/1e8c7867-dbc2-476d-91f5-395c44f8ca77)
 <br>
@@ -45,11 +49,12 @@ Under Settings-->Generel-->Event
 
 Der lager appen 2 global varibles som kan brukes som triggere i scener
 
-
-<h3>HighPrice=Hvilken time prisen er høyest</h3>
-
-<h3>Lowpris=Hvilken time prisen er lavest</h3>
-
+<br>
+HighPrice=Hvilken time prisen er høyest
+<br>
+<br>
+Lowpris=Hvilken time prisen er lavest
+<br>
 
 
 <h2>App variabler Varibles</h2>
