@@ -6,7 +6,7 @@ Quick app that show todays electric prices in Norway
 <br>
 Data hentet gjennom åpent API
 
-https://www.hvakosterstrommen.no/strompris-api
+https://www.hvakosterstrommen.no/strompris-api, Bemark at det er uten MVa prisene.
 <br>
 <br>
 <br>
